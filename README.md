@@ -89,8 +89,8 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](https://openai.com/)
 
 ### ⚙ DevOps & Infra
-(https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![WebSocket](https://img.shields.io/badge/WebSocket-008080?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 
 ---
